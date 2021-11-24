@@ -1,0 +1,124 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://kyori.xyz/",
+            "path": "index.html",
+            "saved": true,
+            "size": 16843,
+            "children": [
+                {
+                    "url": "https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg@webp",
+                    "path": "img/68686407_p0.webp",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://kyori.xyz/js/script.js",
+                    "path": "js/script.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/npm/typeface-source-code-pro@1.1.3/index.min.css",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/npm/highlightjs@9.16.2/styles/monokai.css",
+                    "saved": false
+                },
+                {
+                    "url": "https://kyori.xyz/css/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 28165,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/npm/hexo-math@4.0.0/dist/style.css",
+                    "saved": false
+                },
+                {
+                    "url": "https://kyori.xyz/icons-192.png",
+                    "path": "img/icons-192.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://kyori.xyz/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "kyori-xyz-y6pz4pp",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://kyori.xyz/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://kyori.xyz/",
+            "statusCode": 200,
+            "headers": {
+                "date": "Sat, 20 Nov 2021 04:34:11 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "content-disposition": "inline; filename=\"index.html\"",
+                "cache-control": "public, max-age=0, must-revalidate",
+                "etag": "W/\"7fc21f606b40add33c721734ded5dab137716292df800a63919fd4bde66a3f9c\"",
+                "access-control-allow-origin": "*",
+                "age": "5521696",
+                "x-vercel-cache": "HIT",
+                "server": "Vercel",
+                "x-vercel-id": "hnd1:hnd1::2gh6x-1637382851275-4f4b0b6f1f57",
+                "strict-transport-security": "max-age=63072000"
+            }
+        },
+        "time": {
+            "start": "2021-11-20T04:34:11.096Z",
+            "end": "2021-11-20T04:34:12.625Z"
+        },
+        "remark": [],
+        "ip": "76.76.21.21",
+        "url": "https://kyori.xyz/",
+        "main": "index.html",
+        "domain": "kyori.xyz",
+        "origin": "https://kyori.xyz",
+        "totalSize": "45 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://kyori.xyz/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
